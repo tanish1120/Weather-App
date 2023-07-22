@@ -19,7 +19,7 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
-    <li>Weather APIs (e.g., OpenWeatherMap, WeatherAPI, etc.)</li>
+    <li>Weather APIs</li>
   </ul>
 
   <h2>How to Use</h2>
@@ -38,9 +38,9 @@
   <p>If you have any questions or feedback, you can contact me at:</p>
 
   <ul>
-    <li>Your Name</li>
-    <li>Your Email Address</li>
-    <li> <a href="https://www.linkedin.com/in/tanishrathore/">Your Website or Social Media Handles</li>
+    <li>Tanish Rathore</li>
+    <li>rathoretanish11@gmail.com</li>
+    <li> <a href="https://www.linkedin.com/in/tanishrathore/">LinkedIn</li>
   </ul>
 
   <p>Thank you for using the Weather Telling Website!</p>
